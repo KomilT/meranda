@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/meranda/static/css/main.00d82384.chunk.css",
+    "main.js": "/meranda/static/js/main.608d7c1e.chunk.js",
+    "main.js.map": "/meranda/static/js/main.608d7c1e.chunk.js.map",
+    "runtime-main.js": "/meranda/static/js/runtime-main.ea23ecd8.js",
+    "runtime-main.js.map": "/meranda/static/js/runtime-main.ea23ecd8.js.map",
+    "static/css/2.bfbceff5.chunk.css": "/meranda/static/css/2.bfbceff5.chunk.css",
+    "static/js/2.037217a9.chunk.js": "/meranda/static/js/2.037217a9.chunk.js",
+    "static/js/2.037217a9.chunk.js.map": "/meranda/static/js/2.037217a9.chunk.js.map",
+    "index.html": "/meranda/index.html",
+    "precache-manifest.e84cf4da6e1794d2a8f17d21fcbc0074.js": "/meranda/precache-manifest.e84cf4da6e1794d2a8f17d21fcbc0074.js",
+    "service-worker.js": "/meranda/service-worker.js",
+    "static/css/2.bfbceff5.chunk.css.map": "/meranda/static/css/2.bfbceff5.chunk.css.map",
+    "static/css/main.00d82384.chunk.css.map": "/meranda/static/css/main.00d82384.chunk.css.map",
+    "static/js/2.037217a9.chunk.js.LICENSE.txt": "/meranda/static/js/2.037217a9.chunk.js.LICENSE.txt",
+    "static/media/slick-theme.css": "/meranda/static/media/slick.f97e3bbf.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ea23ecd8.js",
+    "static/css/2.bfbceff5.chunk.css",
+    "static/js/2.037217a9.chunk.js",
+    "static/css/main.00d82384.chunk.css",
+    "static/js/main.608d7c1e.chunk.js"
+  ]
+}
